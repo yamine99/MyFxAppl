@@ -1,4 +1,6 @@
-//installer les dépéndances
+# Application sous Java FX
+
+## installer les dépéndances
 mvn clean install
 
 //run
