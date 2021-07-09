@@ -7,6 +7,7 @@
     - Comment installer Maven(http://objis.com/tutoriel-maven-n1-installation-et-phases/)
 
 # Test projet
-1. Tout d'abord se postionner sur la racine du projet(etablissementsocolaire-master)
+1. Tout d'abord se postionner sur la racine du projet(MyFxAppl-master)
 2. Ouvrir un terminal depuis la racine du fichier
-3. Exécuter la commande : mvn clean test
+3. Exécuter la commande pour installer les dépendances : mvn clean install
+4. Exécuter la commande : mvn clean javafx:run
