@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+.label{
+   -fx-text-fill: black;
+    -fx-font: bold 28px Pacifico;
+}
+
+.button{
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font-style: bold;
+    -fx-border-radius: 100%;
+    -fx-margin: 40px;
+}
