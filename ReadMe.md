@@ -1,10 +1,7 @@
 
-# Projet de gestion d'établissement
-* Utilisation des mock avec Mockito
-* Test avec Junit
-* Les test services
+# Projet de gestion d'agent de sécurité
 
-# Pré-requis
+## Pré-requis
 1. Une JDK 15
 2. Le framework maven installé
     - Comment installer Maven(http://objis.com/tutoriel-maven-n1-installation-et-phases/)
